@@ -1,0 +1,35 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+.logo {
+	max-height: 130px;
+	max-width: auto;
+	margin-top: 4%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+.main {
+	margin-left: auto;
+	margin-right: auto;
+}
+.join-btn {
+	margin-top: 20px;
+	width: 20%;
+	font-weight: bold;
+	font-size: large;
+	margin-bottom: 10px;
+}
+.info {
+	//margin-top: 5%;
+}
+.row div p {
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: justify;
+}
+.social {
+	height: 40px;
+	width: 40px;
+}
