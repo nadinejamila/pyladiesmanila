@@ -1,1 +1,4 @@
-/static
+__pycache__
+static
+local_settings.py
+db.sqlite3
