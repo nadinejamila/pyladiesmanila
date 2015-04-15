@@ -16,11 +16,13 @@ body {
 }
 .join-btn {
 	margin-top: 20px;
-	width: 20%;
 	font-weight: bold;
 	font-size: large;
 	margin-bottom: 10px;
 	background-color: #44e6c2;
+}
+.join-btn:hover {
+	background-color: #1ddab0;
 }
 .info {
 	//margin-top: 5%;
